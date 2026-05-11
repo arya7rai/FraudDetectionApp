@@ -1,0 +1,6 @@
+id,timestamp,amount,time_delta,num_prev_txn_24h,merchant_risk_score,device_trust_score,ip_risk_score,country_risk_score,card_age_days,customer_tenure_days,failed_login_attempts,is_fraud,prediction_source
+1,2026-05-09 20:57:10,9999.0,20.0,8,0.95,0.1,0.89,0.85,7.0,8.0,1,1,web_form
+2,2026-05-09 21:00:42,499.0,3600.0,1,0.1,0.91,0.01,0.03,800.0,1000.0,0,0,web_form
+3,2026-05-09 21:01:35,4500.0,600.0,3,0.45,0.57,0.35,0.37,120.0,250.0,1,1,web_form
+4,2026-05-09 21:02:25,50000.0,5.0,12,0.89,0.01,0.9,0.88,2.96,4.98,4,1,web_form
+5,2026-05-10 12:54:17,2638.0,12.0,87,123.0,13.0,24.0,533.0,23.0,24.0,2,0,api_endpoint
