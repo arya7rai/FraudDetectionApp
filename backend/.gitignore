@@ -1,0 +1,17 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+venv/
+env/
+.env
+
+# FastAPI / Database / ML
+app/database/*.db
+app/database/*.csv
+app/ml_pipeline/model.pkl
+
+# Testing
+.pytest_cache/
